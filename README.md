@@ -1,1 +1,1 @@
-# Hello.-Py
+print("hello world")
